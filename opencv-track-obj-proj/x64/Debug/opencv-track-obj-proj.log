@@ -1,0 +1,3 @@
+﻿  opencv-track-obj-proj.cpp
+C:\Users\vlade\source\repos\opencv-track-obj-proj\opencv-track-obj-proj\opencv-track-obj-proj.cpp(11,28): warning C4305: инициализация: усечение из "double" в "float"
+  opencv-track-obj-proj.vcxproj -> C:\Users\vlade\source\repos\opencv-track-obj-proj\x64\Debug\opencv-track-obj-proj.exe
