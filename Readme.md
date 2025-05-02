@@ -11,7 +11,7 @@
 ```cpp
 #define USE_IMAGE_SEQUENCE // Работа с серий изображений 
 //#define USE_IMAGE_SEQUENCE // Работа с видео
-
+```cpp
 Серия изображений
 
 Выделение 
