@@ -20,10 +20,7 @@
 const string inputFolder = "images/";
 const int numFrames = 1;
 sprintf_s(filename, sizeof(filename), "images/frame_%06d.bmp", i);
-
-**Видео**
 ```
 Выделение производится вручную на первом кадре. После выделения, нажмите Enter для сохранения детектируемого объекта. После окончания выделения, нажмите пробел и все фотографии будут сохранены в output_images/
 
-Видео
-
+**Видео**
