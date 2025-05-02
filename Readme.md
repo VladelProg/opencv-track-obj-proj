@@ -25,4 +25,4 @@ sprintf_s(filename, sizeof(filename), "images/frame_%06d.bmp", i);
 
 **Видео**
 
-![**Пример работы**](https://cloud.tpu.ru/index.php/s/YKX79mYWQeEFKsr)
+![**Пример работы**](https://drive.google.com/file/d/1HfFWhmlkuf4QyBzUByZ2T1fj1k6nvy7-/view?usp=sharing)
