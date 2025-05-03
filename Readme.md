@@ -25,4 +25,4 @@ sprintf_s(filename, sizeof(filename), "images/frame_%06d.bmp", i);
 
 **Видео**
 
-![**Пример работы**](https://drive.google.com/uc?id=1HfFWhmlkuf4QyBzUByZ2T1fj1k6nvy7-)
+![**Пример работы**](./opencv-track-obj-proj/output_images/output_000002.bmp)
